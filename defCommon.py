@@ -1,0 +1,8 @@
+EXCHANGE_API_URL = "https://www.koreaexim.go.kr/site/program/financial/exchangeJSON";
+
+DATA_PARAM = 'AP01' # exchage
+
+RESULT_PARAM_SUCESS = 1;
+RESULT_PARAM_DATA_CODE_ERROR = 2;
+RESULT_PARAM_AUTH_CODE_ERROR = 3;
+RESULT_PARAM_DAILY_LIMIT_NOTIFICATION = 4;
